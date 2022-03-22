@@ -25,7 +25,7 @@ you will get a link like this, if you have subscribed to more than 100 subreddit
 ## Step 5:
 Right-click on the generated links and select "copy link address".
 
-<img src="Images/copy link address.jpeg" width="1200"/>
+<img src="Images/copy link.png" width="1200"/>
 
 ## Step 6:
 paste them in a different browser's address bar where your new account is logged in. If you have multiple links paste them one by one into new tabs. For example 10 links = 10 tabs.
