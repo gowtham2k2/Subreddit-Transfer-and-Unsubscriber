@@ -29,9 +29,11 @@ Right-click on the generated links and select "copy link address". Don't do CTRL
 <img src="Images/copy link.png" width="1200"/>
 
 ## Step 6:
-paste them in a different browser's address bar where your new account is logged in. If you have multiple links paste them one by one into new tabs. For example 10 links = 10 tabs. All the new subreddit will have green join button, common subreddits of two accounts will have red leave button
+paste them in a different browser's address bar where your new account is logged in. If you have multiple links then paste them one by one in new tabs. For example 10 links = 10 tabs. All the new subreddit will have green join buttons, common subreddits of two accounts will have red leave button
 
 Tip: If you don't have a second browser just open an incognito tab and login into your new account where you want to transfer those subreddits.
+
+Here I switched from Edge ( old account ) to Chrome ( new account ).
 
 <img src="/Images/paste link in new browser.png" width="1200"/>
 
