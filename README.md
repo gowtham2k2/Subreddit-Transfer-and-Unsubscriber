@@ -37,6 +37,8 @@ Tip: If you don't have a second browser just open an incognito tab and login int
 
 Here I switched from Edge ( old account ) to Chrome ( new account ).
 
+This is how the generated [link](https://old.reddit.com/r/Android+AndroidOnWindows+FlutterDev+Infinity_For_Reddit+Kotlin+Magisk+MotoG+Vanced+WSA+Windows11+androidapps+androiddev+announcements+motorola+windowsinsiders+xManagerApp/) looks 👇. YOURS WILL BE DIFFERENT DON'T COPY THIS EXAMPLE LINK COPY YOURS. 
+
 <img src="/Images/paste link in new browser.png" width="1200"/>
 
 ## Step 7:
