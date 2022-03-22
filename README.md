@@ -25,7 +25,7 @@ Right-click on the generated links and select "copy link address", paste them in
 
 Tip: If you don't have a second browser just open an incognito tab and login into your new account where you want to transfer those subreddits.
 
-<img src="https://raw.githubusercontent.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/main/Images/console%20tab.jpeg" width="200"/>
+<img src="Images/copy link address.jpeg" width="1200"/>
 
 ## Step 6:
 copy and paste this code in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
