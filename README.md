@@ -20,6 +20,7 @@ copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and
 
 ## Step 4:
 you will get a link like this, if you have subscribed to more than 100 subreddits you will get multiple links. For example, 1000 subreddits generate 10 links.
+
 <img src="/Images/link extracter output.png" width="1200"/>
 
 ## Step 5:
@@ -28,11 +29,13 @@ Right-click on the generated links and select "copy link address".
 <img src="Images/copy link.png" width="1200"/>
 
 ## Step 6:
-paste them in a different browser's address bar where your new account is logged in. If you have multiple links paste them one by one into new tabs. For example 10 links = 10 tabs.
+paste them in a different browser's address bar where your new account is logged in. If you have multiple links paste them one by one into new tabs. For example 10 links = 10 tabs. All the new subreddit will have green join button, common subreddits of two accounts will have red leave button
 
 Tip: If you don't have a second browser just open an incognito tab and login into your new account where you want to transfer those subreddits.
 
-## Step :
+<img src="/Images/paste link in new browser.png" width="1200"/>
+
+## Step 7:
 copy and paste this code in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
 
 Now all the Subreddits and Users have been copied to your new account.
