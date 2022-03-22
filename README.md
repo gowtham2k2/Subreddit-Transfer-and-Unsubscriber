@@ -37,12 +37,12 @@ Tip: If you don't have a second browser just open an incognito tab and login int
 
 Here I switched from Edge ( old account ) to Chrome ( new account ).
 
-This is how the generated [link](https://old.reddit.com/r/Android+AndroidOnWindows+FlutterDev+Infinity_For_Reddit+Kotlin+Magisk+MotoG+Vanced+WSA+Windows11+androidapps+androiddev+announcements+motorola+windowsinsiders+xManagerApp/) looks 👇. YOURS WILL BE DIFFERENT DON'T COPY THIS EXAMPLE LINK COPY YOURS. 
+This is how the generated [link](https://old.reddit.com/r/Android+AndroidOnWindows+FlutterDev+Infinity_For_Reddit+Kotlin+Magisk+MotoG+Vanced+WSA+Windows11+androidapps+androiddev+announcements+motorola+windowsinsiders+xManagerApp/) looks 👇. YOURS WILL BE DIFFERENT, DON'T COPY THIS EXAMPLE LINK, COPY YOURS. 
 
 <img src="/Images/paste link in new browser.png" width="1200"/>
 
 ## Step 7:
-Copy and Paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20subscriber.js) in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
+Copy and Paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20subscriber.js) in the console tab and click enter (in Second browser/ incognito tab). If you have multiple links do this same step in all those links (new tabs).
 
 <img src="/Images/link extracter.gif" width="1200"/>
 
