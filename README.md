@@ -21,7 +21,7 @@ copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and
 <img src="/Images/link extracter copy and paste.png" width="1200"/>
 
 ## Step 4:
-you will get a link like this, if you have subscribed to more than 100 subreddits you will get multiple links. For example, 1000 subreddits will generate 10 links.
+You will get a link like this in the console tab, if you have subscribed to more than 100 subreddits you will get multiple links. For example, 1000 subreddits will generate 10 links.
 
 <img src="/Images/link extracter output.png" width="1200"/>
 
