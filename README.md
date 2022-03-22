@@ -16,6 +16,8 @@ open your browser dev tools and go to the console tab ( for chrome/edge/brave pr
 ## Step 3:
 copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/link%20extracter.js) and click enter
 
+<img src="/Images/link extracter copy and paste.png" width="1200"/>
+
 ## Step 4:
 you will get a link like this, if you have subscribed to more than 100 subreddits you will get multiple links. For example, 1000 subreddits generate 10 links.
 <img src="/Images/link generated.jpeg" width="1200"/>
