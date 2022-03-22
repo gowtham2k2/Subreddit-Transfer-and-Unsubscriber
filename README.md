@@ -31,7 +31,7 @@ Right-click on the generated links and select "copy link address". Don't do CTRL
 <img src="Images/copy link.png" width="1200"/>
 
 ## Step 6:
-paste them in a different browser's address bar where your new account is logged in. If you have multiple links then paste them one by one in new tabs. For example 10 links = 10 tabs. All the new subreddit will have green join buttons, common subreddits of two accounts will have red leave button
+Paste them in a different browser's address/search bar where your new account is logged in. If you have multiple links then paste them one by one in new tabs. For example if the above code generates 10 links then paste one link in one new tab, so 10 links = 10 tabs. All the new subreddit will have green join buttons and common subreddits of those two accounts will have red leave button.
 
 Tip: If you don't have a second browser just open an incognito tab and login into your new account where you want to transfer those subreddits.
 
@@ -40,7 +40,7 @@ Here I switched from Edge ( old account ) to Chrome ( new account ).
 <img src="/Images/paste link in new browser.png" width="1200"/>
 
 ## Step 7:
-copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20subscriber.js) in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
+Copy and Paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20subscriber.js) in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
 
 <img src="/Images/link extracter.gif" width="1200"/>
 
