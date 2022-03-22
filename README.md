@@ -17,7 +17,8 @@ open your browser dev tools and go to the console tab ( for chrome/edge/brave pr
 copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/link%20extracter.js) and click enter
 
 ## Step 4:
-you will get a link like [this](https://raw.githubusercontent.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/main/Images/link%20generated.jpeg), if you have subscribed to more than 100 subreddits you will get multiple links. For example, 1000 subreddits generate 10 links.
+you will get a link like this, if you have subscribed to more than 100 subreddits you will get multiple links. For example, 1000 subreddits generate 10 links.
+<img src="/Images/link generated.jpeg" width="1200"/>
 
 ## Step 5:
 Right-click on the generated links and select "copy link address", paste them in a different browser's address bar where your new account is logged in. If you have multiple links paste them one by one into new tabs. For example 10 links = 10 tabs.
