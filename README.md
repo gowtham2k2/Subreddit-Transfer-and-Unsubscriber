@@ -21,13 +21,16 @@ you will get a link like this, if you have subscribed to more than 100 subreddit
 <img src="/Images/link generated.jpeg" width="1200"/>
 
 ## Step 5:
-Right-click on the generated links and select "copy link address", paste them in a different browser's address bar where your new account is logged in. If you have multiple links paste them one by one into new tabs. For example 10 links = 10 tabs.
-
-Tip: If you don't have a second browser just open an incognito tab and login into your new account where you want to transfer those subreddits.
+Right-click on the generated links and select "copy link address".
 
 <img src="Images/copy link address.jpeg" width="1200"/>
 
 ## Step 6:
+paste them in a different browser's address bar where your new account is logged in. If you have multiple links paste them one by one into new tabs. For example 10 links = 10 tabs.
+
+Tip: If you don't have a second browser just open an incognito tab and login into your new account where you want to transfer those subreddits.
+
+## Step :
 copy and paste this code in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
 
 Now all the Subreddits and Users have been copied to your new account.
