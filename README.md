@@ -38,7 +38,7 @@ Here I switched from Edge ( old account ) to Chrome ( new account ).
 <img src="/Images/paste link in new browser.png" width="1200"/>
 
 ## Step 7:
-copy and paste this code in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
+copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20subscriber.js) in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
 
 <img src="/Images/link extracter.gif" width="1200"/>
 
