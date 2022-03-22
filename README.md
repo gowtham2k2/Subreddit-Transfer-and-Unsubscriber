@@ -9,8 +9,9 @@ All your subscribed ( joined ) subreddits and users will be transferred to your 
 Go to this [Reddit link](https://old.reddit.com/subreddits/) with your old account.
 
 ## Step 2:
-open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). It should look like [this](https://raw.githubusercontent.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/main/Images/console%20tab.jpeg), if you see any red errors don't worry just don't care about it.
-<img src="/Images/console tab.jpeg" width="700"/>
+open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). if you see any red errors don't worry just don't care about it.
+
+| <img src="/Images/console tab.jpeg" width="1200"/> |
 
 ## Step 3:
 copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/link%20extracter.js) and click enter
