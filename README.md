@@ -61,3 +61,6 @@ copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and
 <img src="/Images/unsubscribe all subreddits.gif" width="1200"/>
 
 Now all the Subreddits and Users have been unsubscribed from your account.
+
+## Credits :
+Auto Subscriber : [Code](https://gist.github.com/AymaneHrouch/c29d7a00e7e68f39ed838610695c8d87) from [AymaneHrouch](https://gist.github.com/AymaneHrouch)
