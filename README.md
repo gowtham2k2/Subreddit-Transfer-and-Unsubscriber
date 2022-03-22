@@ -24,7 +24,7 @@ you will get a link like this, if you have subscribed to more than 100 subreddit
 <img src="/Images/link extracter output.png" width="1200"/>
 
 ## Step 5:
-Right-click on the generated links and select "copy link address".
+Right-click on the generated links and select "copy link address". Don't do CTRL+C and CTRL+V  this link is Shortned by the browser
 
 <img src="Images/copy link.png" width="1200"/>
 
