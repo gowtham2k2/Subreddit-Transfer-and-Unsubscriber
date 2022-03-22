@@ -71,7 +71,7 @@ copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and
 Now all the Subreddits and Users have been unsubscribed from your account.
 
 ## Credits :
-Auto Subscriber : [Code](https://gist.github.com/AymaneHrouch/c29d7a00e7e68f39ed838610695c8d87) from [AymaneHrouch](https://gist.github.com/AymaneHrouch)
+Auto Subscriber : [Code](https://gist.github.com/AymaneHrouch/c29d7a00e7e68f39ed838610695c8d87) from [AymaneHrouch](https://gist.github.com/AymaneHrouch) implemented as [auto subscriber.js](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20subscriber.js).
 
 ___
 Feel free to Contribute and Report Issues if you face any.
