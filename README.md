@@ -9,7 +9,7 @@ All your subscribed ( joined ) subreddits and users will be transferred to your 
 Go to this [Reddit link](https://old.reddit.com/subreddits/) with your old account.
 
 ## Step 2:
-open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). if you see any red errors don't worry just don't care about it.
+open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). if you see any red errors don't worry just ingnore it.
 
 <img src="/Images/console tab.jpeg" width="1200"/>
 
@@ -43,7 +43,7 @@ copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and
 <img src="/Images/link extracter.gif" width="1200"/>
 
 
-Now all the Subreddits and Users have been copied to your new account.
+Now all the Subreddits and Users have been copied to your new/second account.
 
 # Guide to Unsubscribe all  your subreddits and users
 
@@ -51,9 +51,13 @@ Now all the Subreddits and Users have been copied to your new account.
 Go to this [link](https://old.reddit.com/subreddits/).
 
 ## Step 2:
-open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). It should look like this, if you see any red errors don't worry just don't care about it.
+open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). if you see any red errors don't worry just ingnore it.
+
+<img src="/Images/console tab.jpeg" width="1200"/>
 
 ## Step 3:
-copy and paste this code and click enter
+copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and-Unsubscriber/blob/main/auto%20unsubscriber.js) and click enter
+
+<img src="/Images/unsubscribe all subreddits.gif" width="1200"/>
 
 Now all the Subreddits and Users have been unsubscribed from your account.
