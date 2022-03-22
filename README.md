@@ -11,7 +11,7 @@ All your subscribed ( joined ) subreddits and users will be transferred to your 
 Go to this [Reddit link](https://old.reddit.com/subreddits/) with your old account.
 
 ## Step 2:
-open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). if you see any red errors don't worry just ingnore it.
+Open your browser dev tools and go to the console tab ( for chrome/edge/brave press F12 ). If you see any red errors don't worry just ingnore it.
 
 <img src="/Images/console tab.jpeg" width="1200"/>
 
