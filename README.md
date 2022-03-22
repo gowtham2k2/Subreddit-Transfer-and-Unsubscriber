@@ -23,6 +23,8 @@ copy and paste this [code](https://github.com/RaghavanVdy/Subreddit-Transfer-and
 ## Step 4:
 You will get a link like this in the console tab, if you have subscribed to more than 100 subreddits you will get multiple links. For example, 1000 subreddits will generate 10 links.
 
+Bonus Tip: You can Backup your Subreddits and Users by saving all the generated links in a text file
+
 <img src="/Images/link extracter output.png" width="1200"/>
 
 ## Step 5:
@@ -68,3 +70,7 @@ Now all the Subreddits and Users have been unsubscribed from your account.
 
 ## Credits :
 Auto Subscriber : [Code](https://gist.github.com/AymaneHrouch/c29d7a00e7e68f39ed838610695c8d87) from [AymaneHrouch](https://gist.github.com/AymaneHrouch)
+
+___
+Feel free to Contribute and Report Issues if you face any.
+___
