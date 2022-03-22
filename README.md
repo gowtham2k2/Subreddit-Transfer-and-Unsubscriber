@@ -38,6 +38,9 @@ Tip: If you don't have a second browser just open an incognito tab and login int
 ## Step 7:
 copy and paste this code in the console tab and click enter (Second browser/ incognito tab). If you have multiple links do this same step in all those links.
 
+<img src="/Images/link extracter.gif" width="1200"/>
+
+
 Now all the Subreddits and Users have been copied to your new account.
 
 # Guide to Unsubscribe all  your subreddits and users
